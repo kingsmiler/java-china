@@ -10,6 +10,7 @@
 # Generation Time: 2016-04-22 16:13:46 +0000
 # ************************************************************
 
+use javachina;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
